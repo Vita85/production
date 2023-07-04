@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(215, 250, 249);
+  padding: 10px;
+}
+h3{
+  font-size: 28px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: blue;
+}
+img{
+  width: 500px;
+  padding: 15px 0px;
+}
+p{
+  font-size: 20px;
+  font-weight: 900;
+  text-transform: capitalize;
+  color: rgb(5, 132, 132);
+}
